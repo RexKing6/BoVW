@@ -1,2 +1,2 @@
 # BoVW
-Bag-of-visual word视觉词袋，参考：https://blog.csdn.net/junmuzi/article/details/54981017
+Bag-of-visual word视觉词袋，参考：https://kushalvyas.github.io/BOV.html
